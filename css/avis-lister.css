@@ -1,0 +1,10 @@
+#pageNav {
+    position: absolute;
+    left: 50%;
+    transform: translate( -50%, 0 );
+}
+
+li {
+    display: inline;
+    margin-right: 0.5em;
+}
